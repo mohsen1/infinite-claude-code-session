@@ -1,6 +1,10 @@
 # Infinite Claude Code Session
 
-https://github.com/user-attachments/assets/demo.mp4
+
+
+https://github.com/user-attachments/assets/003379fe-e650-47ff-a6ca-b1d59e43eb3d
+
+
 
 ## Usage
 
