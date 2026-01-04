@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "tmux send-keys -t claude 'Continue' && sleep 0.1 && tmux send-keys -t claude Enter"
+            "command": "echo 'Continue' >&2; exit 2"
           }
         ]
       }
