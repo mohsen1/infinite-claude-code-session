@@ -1,5 +1,16 @@
-# Run Claude Code forever
+# Infinite Claude Code Session
 
-1. make sure you have `tmux` installed
-2. Update what prompt you want to give to Claude Code when its done with a session in `.claude/settings.json`
-3. start claude with `tmux new-session -s claude 'claude --dangerously-skip-permissions'`
+https://github.com/user-attachments/assets/demo.mp4
+
+## Usage
+
+1. Make sure you have `tmux` installed
+2. Update the prompt you want to give to Claude Code when it's done with a session in `.claude/settings.json`
+3. Start Claude with:
+   ```bash
+   tmux new-session -s claude 'claude --dangerously-skip-permissions'
+   ```
+
+## License
+
+MIT
